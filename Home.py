@@ -5,6 +5,7 @@ st.set_page_config(page_title = "Vanelslande NV smart garden solutions")
 hide_streamlit_style = """
             <style>
             footer {visibility: hidden;}
+             #MainMenu {visibility: hidden;}
             </style>
             
             
