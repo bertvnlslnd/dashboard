@@ -27,3 +27,4 @@ st.bar_chart(chart_data)
 st.caption("TIJD")
 st.image("assets/test.jpg")
 
+
